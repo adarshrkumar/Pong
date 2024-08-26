@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+#phaser-div {
+  max-width: calc(100% - 16px);
+  max-height: calc(100% - 16px);
+  border: solid 8px var(--game-border, #0078D7);
+}

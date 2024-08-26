@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: calc(100% - 16px);
+  height: calc(100% - 16px);
+}
+
+form {
+  max-width: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
